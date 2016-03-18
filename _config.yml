@@ -1,0 +1,28 @@
+name: '"O" Music Lessons'
+favicon: null
+layout_spectrum: 0.6067672846838832
+typography_spectrum: 0.23972621536813676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23878029827028513
+  lightness: 0.08060812670737505
+  saturation: 0.2282369718886912
+  rhythmicContrast: 0.9316947795450687
+purpose: []
